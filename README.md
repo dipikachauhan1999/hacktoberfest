@@ -1,1 +1,7 @@
 # hacktoberfest
+this is the readme for the hactober fest
+	The solution involves leveraging the benefits of Cognitive IoT and data science in order to obtain real time emission data of vehicles and analyzing it to provide better traffic management with an eco friendly factor. It can also track the carbon footprint of vehicles and helps to implement carbon tax to penalize the defaulters.
+	The Exhaust pipe of the vehicles will be equipped with sensors to detect and measure the emission of greenhouse gasses. The data will be analyzed by the carbon footprint management algorithm and if the emission is above 1200ppm the vehicle owner will be informed through an alert which will change the health status from Healthy to Moderate. All the vehicles will be rated on basis of their score in emission of greenhouse gasses. These scores will be used to categorize vehicles into Healthy, Moderate and Severe The vehicle owner will be given 15 days for improving their score in the greenhouse gas emission.
+	Now if another alert is generated for the same vehicle the Central board will be informed along with the vehicle owner and he/she will be penalized a Carbon tax on the basis of his emission score.
+	The emission data of the area will be shared with the navigation software which will update the carbon footprint in the area to all users present in the area. The routes of other vehicles will be updated with the carbon footprint and they will be suggested different routes to avoid building up of hotspots as well as to manage the health of the users.
+
